@@ -31,10 +31,4 @@ For loading in the data, my original plan was to use additional information for 
 
 Another metric I would like to test is word frequency as opposed to TF-IDF. I think it's possible that the clustering might make more sense with a simpler metric. That or I would research other NLP metrics to find one most appropriate to this problem. 
 
-## Final Notes
-
-Thank you for this opportunity! Regardless the outcome of your decision, I would appreciate some feedback on how I did on this challenge and what I could do to improve for the future.
-
-Hope to hear from you soon.
-
 
